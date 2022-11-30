@@ -1,0 +1,11 @@
+MOUSEKEY_ENABLE   = no
+RGBLIGHT_ENABLE   = no
+BOOTMAGIC_ENABLE  = no
+EXTRA_KEYS        = no
+COMBO_ENABLE      = yes
+WPM_ENABLE        = yes
+RGB_MATRIX_ENABLE = yes
+OLED_ENABLE       = yes
+OLED_DRIVER       = SSD1306
+LTO_ENABLE        = yes
+BOOTLOADER        = atmel-dfu
